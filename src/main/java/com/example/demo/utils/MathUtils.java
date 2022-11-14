@@ -1,2 +1,4 @@
-package com.example.demo.utils;public class MathUtils {
+package com.example.demo.utils;
+
+public class MathUtils {
 }
